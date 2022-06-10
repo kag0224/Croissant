@@ -1,6 +1,7 @@
 .page-links {
   display: flex;
   justify-content: center;
+  margin-top: 10px;
 }
 
 .page {
@@ -14,4 +15,15 @@ body {
 h1,
 p {
   text-align: center;
+  margin-top: 15px;
+}
+
+a {
+  color: #6f3826;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #6f3826;
 }

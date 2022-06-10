@@ -1,0 +1,17 @@
+.page-links {
+  display: flex;
+  justify-content: center;
+}
+
+.page {
+  margin: 20px;
+}
+
+body {
+  background-color: #fccf5b;
+}
+
+h1,
+p {
+  text-align: center;
+}
